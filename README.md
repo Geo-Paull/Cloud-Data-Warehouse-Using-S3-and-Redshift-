@@ -1,5 +1,6 @@
 # Project 3: Song Play Analysis with S3 and Redshift
 -------------------------
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
 
 ### Introduction
 
